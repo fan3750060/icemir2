@@ -1,0 +1,4 @@
+{"file":"resurrection.png","frames":{
+"revive_bg":{"x":1,"y":1,"w":301,"h":145,"offX":0,"offY":0,"sourceW":301,"sourceH":145},
+"revive_btn":{"x":1,"y":148,"w":95,"h":34,"offX":0,"offY":0,"sourceW":95,"sourceH":34},
+"revive_zz":{"x":304,"y":1,"w":172,"h":172,"offX":0,"offY":0,"sourceW":172,"sourceH":172}}}

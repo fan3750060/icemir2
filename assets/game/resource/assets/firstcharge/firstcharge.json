@@ -1,0 +1,10 @@
+{"file":"firstcharge.png","frames":{
+"fc_btn_1":{"x":540,"y":754,"w":203,"h":96,"offX":0,"offY":0,"sourceW":204,"sourceH":97},
+"fc_btn_2":{"x":766,"y":230,"w":203,"h":96,"offX":0,"offY":0,"sourceW":204,"sourceH":97},
+"fc_bg2":{"x":1,"y":1,"w":763,"h":385,"offX":35,"offY":40,"sourceW":847,"sourceH":486},
+"fc_yilingqu":{"x":745,"y":754,"w":114,"h":69,"offX":0,"offY":0,"sourceW":114,"sourceH":69},
+"fc_t3":{"x":1,"y":388,"w":537,"h":190,"offX":31,"offY":3,"sourceW":614,"sourceH":193},
+"fc_p_2":{"x":766,"y":1,"w":220,"h":227,"offX":56,"offY":279,"sourceW":325,"sourceH":544},
+"fc_t5":{"x":540,"y":571,"w":458,"h":181,"offX":52,"offY":12,"sourceW":614,"sourceH":193},
+"fc_t4":{"x":1,"y":580,"w":537,"h":190,"offX":31,"offY":3,"sourceW":614,"sourceH":193},
+"fc_t6":{"x":540,"y":388,"w":460,"h":181,"offX":50,"offY":12,"sourceW":614,"sourceH":193}}}

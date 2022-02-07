@@ -1,0 +1,14 @@
+{"file":"fourImage.png","frames":{
+"八":{"x":56,"y":70,"w":26,"h":11,"offX":0,"offY":10,"sourceW":28,"sourceH":30},
+"二":{"x":28,"y":53,"w":26,"h":18,"offX":0,"offY":7,"sourceW":28,"sourceH":30},
+"级":{"x":59,"y":1,"w":28,"h":26,"offX":0,"offY":3,"sourceW":28,"sourceH":30},
+"阶":{"x":1,"y":1,"w":28,"h":29,"offX":0,"offY":1,"sourceW":28,"sourceH":30},
+"九":{"x":59,"y":29,"w":25,"h":22,"offX":1,"offY":4,"sourceW":28,"sourceH":30},
+"零":{"x":31,"y":1,"w":26,"h":29,"offX":1,"offY":1,"sourceW":28,"sourceH":30},
+"六":{"x":89,"y":26,"w":24,"h":23,"offX":1,"offY":4,"sourceW":28,"sourceH":30},
+"七":{"x":86,"y":51,"w":26,"h":19,"offX":1,"offY":6,"sourceW":28,"sourceH":30},
+"三":{"x":1,"y":32,"w":25,"h":21,"offX":1,"offY":5,"sourceW":28,"sourceH":30},
+"十":{"x":28,"y":32,"w":27,"h":19,"offX":0,"offY":7,"sourceW":28,"sourceH":30},
+"四":{"x":56,"y":53,"w":24,"h":15,"offX":2,"offY":9,"sourceW":28,"sourceH":30},
+"五":{"x":89,"y":1,"w":25,"h":23,"offX":0,"offY":4,"sourceW":28,"sourceH":30},
+"一":{"x":1,"y":55,"w":25,"h":8,"offX":1,"offY":10,"sourceW":28,"sourceH":30}}}

@@ -1,0 +1,10 @@
+{"file":"achievement.png","frames":{
+"ach_bg1":{"x":1,"y":1,"w":521,"h":496,"offX":0,"offY":0,"sourceW":521,"sourceH":496},
+"ach_jiantou":{"x":760,"y":1,"w":58,"h":49,"offX":0,"offY":0,"sourceW":58,"sourceH":49},
+"ach_namebg":{"x":820,"y":1,"w":118,"h":23,"offX":0,"offY":0,"sourceW":118,"sourceH":23},
+"ach_sjtj":{"x":760,"y":52,"w":108,"h":23,"offX":0,"offY":0,"sourceW":108,"sourceH":23},
+"ach_sjxh":{"x":870,"y":52,"w":108,"h":23,"offX":0,"offY":0,"sourceW":108,"sourceH":23},
+"ach_xunzhangbg":{"x":524,"y":1,"w":137,"h":120,"offX":0,"offY":0,"sourceW":137,"sourceH":120},
+"ach_xzsj":{"x":820,"y":26,"w":109,"h":24,"offX":0,"offY":0,"sourceW":109,"sourceH":24},
+"ach_yidacheng":{"x":663,"y":1,"w":95,"h":68,"offX":0,"offY":0,"sourceW":95,"sourceH":68},
+"ach_zhuangshi":{"x":940,"y":1,"w":18,"h":17,"offX":0,"offY":0,"sourceW":18,"sourceH":17}}}

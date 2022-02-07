@@ -1,0 +1,7 @@
+{"file":"mail.png","frames":{
+"mail_bg":{"x":290,"y":1,"w":30,"h":32,"offX":0,"offY":0,"sourceW":30,"sourceH":32},
+"mail_bx":{"x":322,"y":1,"w":31,"h":25,"offX":0,"offY":0,"sourceW":31,"sourceH":25},
+"mail_com":{"x":261,"y":1,"w":27,"h":43,"offX":0,"offY":0,"sourceW":27,"sourceH":43},
+"mail_tab_1":{"x":1,"y":81,"w":258,"h":78,"offX":0,"offY":0,"sourceW":258,"sourceH":78},
+"mail_tab_2":{"x":1,"y":1,"w":258,"h":78,"offX":0,"offY":0,"sourceW":258,"sourceH":78},
+"mail_xian":{"x":1,"y":161,"w":372,"h":2,"offX":0,"offY":0,"sourceW":372,"sourceH":2}}}

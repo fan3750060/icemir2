@@ -1,0 +1,6 @@
+{"file":"blood.png","frames":{
+"boolBg":{"x":1,"y":34,"w":49,"h":4,"offX":0,"offY":0,"sourceW":49,"sourceH":4},
+"boolGreen":{"x":37,"y":5,"w":4,"h":2,"offX":0,"offY":0,"sourceW":4,"sourceH":2},
+"boolRed":{"x":37,"y":1,"w":4,"h":2,"offX":0,"offY":0,"sourceW":4,"sourceH":2},
+"boolyel":{"x":37,"y":9,"w":4,"h":2,"offX":0,"offY":0,"sourceW":4,"sourceH":2},
+"blood_chaowan":{"x":1,"y":1,"w":34,"h":31,"offX":1,"offY":2,"sourceW":36,"sourceH":36}}}

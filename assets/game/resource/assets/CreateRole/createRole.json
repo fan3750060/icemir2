@@ -1,0 +1,17 @@
+{"file":"createRole.png","frames":{
+"login_btn":{"x":300,"y":1,"w":297,"h":129,"offX":0,"offY":0,"sourceW":297,"sourceH":129},
+"login_xuanzhong":{"x":944,"y":94,"w":62,"h":62,"offX":0,"offY":0,"sourceW":62,"sourceH":62},
+"create_btn_fanhui":{"x":944,"y":1,"w":78,"h":91,"offX":0,"offY":0,"sourceW":78,"sourceH":91},
+"login_nv_2":{"x":231,"y":132,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_zs_1":{"x":116,"y":132,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_zs_2":{"x":1,"y":132,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_ds_1":{"x":829,"y":118,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_ds_2":{"x":714,"y":118,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_fs_1":{"x":599,"y":118,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_fs_2":{"x":829,"y":1,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_nan_1":{"x":714,"y":1,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_nan_2":{"x":599,"y":1,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"login_nv_1":{"x":346,"y":132,"w":113,"h":115,"offX":0,"offY":0,"sourceW":114,"sourceH":115},
+"avatar_bg":{"x":461,"y":132,"w":91,"h":96,"offX":0,"offY":0,"sourceW":91,"sourceH":96},
+"login_suiji":{"x":554,"y":132,"w":33,"h":37,"offX":0,"offY":0,"sourceW":33,"sourceH":37},
+"login_btn1":{"x":1,"y":1,"w":297,"h":129,"offX":0,"offY":0,"sourceW":297,"sourceH":129}}}

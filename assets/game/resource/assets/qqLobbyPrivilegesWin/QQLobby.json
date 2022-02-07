@@ -1,0 +1,9 @@
+{"file":"QQLobby.png","frames":{
+"banner_qqdating":{"x":1,"y":1,"w":878,"h":102,"offX":0,"offY":0,"sourceW":878,"sourceH":102},
+"biaoti_qqdating":{"x":654,"y":105,"w":325,"h":45,"offX":0,"offY":0,"sourceW":325,"sourceH":45},
+"qq_bt1":{"x":654,"y":214,"w":186,"h":59,"offX":0,"offY":0,"sourceW":186,"sourceH":59},
+"qq_bt2":{"x":654,"y":152,"w":186,"h":60,"offX":0,"offY":0,"sourceW":186,"sourceH":60},
+"qqdt_dengji_frame":{"x":1,"y":105,"w":651,"h":117,"offX":0,"offY":0,"sourceW":652,"sourceH":118},
+"qqdt_jiangli_sign":{"x":881,"y":1,"w":30,"h":40,"offX":0,"offY":0,"sourceW":30,"sourceH":40},
+"qqdt_meir_dabiaoti":{"x":215,"y":224,"w":211,"h":41,"offX":0,"offY":0,"sourceW":211,"sourceH":41},
+"qqdt_xinshou_dabiaoti":{"x":1,"y":224,"w":212,"h":41,"offX":0,"offY":0,"sourceW":212,"sourceH":41}}}

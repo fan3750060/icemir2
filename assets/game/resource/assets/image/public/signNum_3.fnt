@@ -1,0 +1,9 @@
+{"file":"signNum_3.png","frames":{
+"一":{"x":14,"y":36,"w":18,"h":6,"offX":0,"offY":7,"sourceW":19,"sourceH":21},
+"二":{"x":22,"y":21,"w":19,"h":13,"offX":0,"offY":3,"sourceW":19,"sourceH":21},
+"三":{"x":43,"y":1,"w":19,"h":17,"offX":0,"offY":1,"sourceW":19,"sourceH":21},
+"四":{"x":1,"y":22,"w":18,"h":11,"offX":1,"offY":5,"sourceW":19,"sourceH":21},
+"五":{"x":1,"y":1,"w":19,"h":19,"offX":0,"offY":0,"sourceW":19,"sourceH":21},
+"六":{"x":22,"y":1,"w":19,"h":18,"offX":0,"offY":1,"sourceW":19,"sourceH":21},
+"日":{"x":1,"y":35,"w":11,"h":17,"offX":4,"offY":2,"sourceW":19,"sourceH":21},
+"周":{"x":43,"y":20,"w":16,"h":20,"offX":1,"offY":1,"sourceW":19,"sourceH":21}}}

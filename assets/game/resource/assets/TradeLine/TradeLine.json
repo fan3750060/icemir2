@@ -1,0 +1,17 @@
+{"file":"TradeLine.png","frames":{
+"trade_chakan":{"x":1721,"y":41,"w":27,"h":32,"offX":0,"offY":0,"sourceW":27,"sourceH":32},
+"trade_zt2":{"x":1721,"y":1,"w":95,"h":38,"offX":0,"offY":0,"sourceW":95,"sourceH":38},
+"trade_zt1":{"x":1619,"y":1,"w":100,"h":48,"offX":0,"offY":0,"sourceW":100,"sourceH":48},
+"trade_mengban":{"x":1431,"y":1,"w":84,"h":84,"offX":0,"offY":0,"sourceW":84,"sourceH":84},
+"trade_bg1":{"x":1,"y":1,"w":874,"h":473,"offX":0,"offY":6,"sourceW":874,"sourceH":479},
+"kbg_trade":{"x":877,"y":1,"w":413,"h":566,"offX":0,"offY":0,"sourceW":413,"sourceH":566},
+"trade_iconk":{"x":1292,"y":1,"w":137,"h":120,"offX":0,"offY":0,"sourceW":137,"sourceH":120},
+"trade_zt3":{"x":1517,"y":1,"w":100,"h":48,"offX":0,"offY":0,"sourceW":100,"sourceH":48},
+"jishou_tab_buy1":{"x":1926,"y":1,"w":25,"h":55,"offX":4,"offY":21,"sourceW":39,"sourceH":111},
+"jishou_tab_buy2":{"x":2007,"y":1,"w":25,"h":55,"offX":3,"offY":22,"sourceW":39,"sourceH":111},
+"jishou_tab_isSell1":{"x":1818,"y":1,"w":25,"h":91,"offX":3,"offY":4,"sourceW":39,"sourceH":111},
+"jishou_tab_isSell2":{"x":1899,"y":1,"w":25,"h":91,"offX":3,"offY":4,"sourceW":39,"sourceH":111},
+"jishou_tab_receive1":{"x":1872,"y":1,"w":25,"h":91,"offX":3,"offY":5,"sourceW":39,"sourceH":111},
+"jishou_tab_receive2":{"x":1845,"y":1,"w":25,"h":91,"offX":3,"offY":5,"sourceW":39,"sourceH":111},
+"jishou_tab_sell1":{"x":1980,"y":1,"w":25,"h":55,"offX":4,"offY":21,"sourceW":39,"sourceH":111},
+"jishou_tab_sell2":{"x":1953,"y":1,"w":25,"h":55,"offX":3,"offY":21,"sourceW":39,"sourceH":111}}}
